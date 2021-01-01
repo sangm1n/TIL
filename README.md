@@ -11,6 +11,7 @@
   update: 파일 내용 변경
   ```
 - 파일 첫 줄에 reference 명시
+- 매일 한 일 -> **[Wiki](https://github.com/sangm1n/TIL/wiki)** 에 기록
 
 ## :open_file_folder: Category
 ### Algorithm
