@@ -12,6 +12,7 @@
   ```
 - 파일 첫 줄에 reference 명시
 - 매일 한 일 -> **[Wiki](https://github.com/sangm1n/TIL/wiki)** 에 기록
+- 자세히 기록하고 싶을 때 -> **[블로그](https://velog.io/@sangm1n)** 에 기록
 
 ## :open_file_folder: Category
 ### Algorithm
@@ -43,3 +44,8 @@
 - *스프링 입문*
 
   - [프로젝트 환경설정](https://github.com/sangm1n/TIL/blob/main/Spring/20210102_spring-environment.md)
+  - 스프링 웹 개발 기초
+    - [1. 정적 컨텐츠](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_static-contents.md)
+    - [2. MVC와 템플릿 엔진](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_mvc-template.md)
+    - [3. API](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_api.md)
+    
