@@ -10,9 +10,10 @@
   rename: 단순한 파일명 변경
   update: 파일 내용 변경
   ```
-- 파일 첫 줄에 reference 명시
-- 매일 한 일 -> **[Wiki](https://github.com/sangm1n/TIL/wiki)** 에 기록
-- 자세히 기록하고 싶을 때 -> **[블로그](https://velog.io/@sangm1n)** 에 기록
+  
+- 알고리즘은 꾸준히 -> **[코드](https://github.com/sangm1n/problem-solving)** / **[문제 풀이](https://sangminlog.tistory.com/category/Algorithm/Problem%20Solving)**
+- 매일 한 일 -> **[TID](https://sangminlog.tistory.com/category/Etc/Diary)** 에 기록
+- 때때로 **[블로그](https://sangminlog.tistory.com/)** 와 병행 기록
 
 ## :open_file_folder: Category
 ### Algorithm
@@ -29,6 +30,15 @@
   - [etc - 소수 판별 / 투 포인터](https://github.com/sangm1n/TIL/blob/main/Algorithm/20201226_etc-algorithm-1.md)
   - [etc - 구간 합 / 순열과 조합](https://github.com/sangm1n/TIL/blob/main/Algorithm/20201227_etc-algorithm-2.md)
 
+### Spring
+- *스프링 입문*
+
+  - [프로젝트 환경설정](https://github.com/sangm1n/TIL/blob/main/Spring/20210102_spring-environment.md)
+  - 스프링 웹 개발 기초
+    - [1. 정적 컨텐츠](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_static-contents.md)
+    - [2. MVC와 템플릿 엔진](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_mvc-template.md)
+    - [3. API](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_api.md)
+    
 ### Git
 - *git과 github*
 
@@ -40,12 +50,13 @@
   - [6. 임시 저장하기](https://github.com/sangm1n/TIL/blob/main/Git/20210101_stash.md)
   - [7. rebase로 병합하기](https://github.com/sangm1n/TIL/blob/main/Git/20210101_rebase.md)
 
-### Spring
-- *스프링 입문*
+- [미러링으로 repository 그대로 옮기기](https://github.com/sangm1n/TIL/blob/main/Git/20210116_git-mirror.md)
+- [committer 계정 변경하기](https://github.com/sangm1n/TIL/blob/main/Git/20210201_modify-author.md)
+  
+### AWS
+- *AWS로 서버 구축하기*
 
-  - [프로젝트 환경설정](https://github.com/sangm1n/TIL/blob/main/Spring/20210102_spring-environment.md)
-  - 스프링 웹 개발 기초
-    - [1. 정적 컨텐츠](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_static-contents.md)
-    - [2. MVC와 템플릿 엔진](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_mvc-template.md)
-    - [3. API](https://github.com/sangm1n/TIL/blob/main/Spring/20210103_api.md)
-    
+  - [NPM 설치하기](https://github.com/sangm1n/TIL/blob/main/AWS/20210114_start-AWS.md)
+  - [외부 접속하기](https://github.com/sangm1n/TIL/blob/main/AWS/20210115_connect-AWS.md)
+
+- [S3란 무엇인가](https://github.com/sangm1n/TIL/blob/main/AWS/20210128_what-is-S3.md)
