@@ -30,6 +30,15 @@
   - [etc - 소수 판별 / 투 포인터](https://github.com/sangm1n/TIL/blob/main/Algorithm/20201226_etc-algorithm-1.md)
   - [etc - 구간 합 / 순열과 조합](https://github.com/sangm1n/TIL/blob/main/Algorithm/20201227_etc-algorithm-2.md)
 
+### Server
+- *소프트스퀘어드 10기 서버 수업*
+
+  - [1. 서버 개요](https://github.com/sangm1n/TIL/blob/main/Server/20200930_server.md)
+  - [2. 네트워크에 대하여](https://github.com/sangm1n/TIL/blob/main/Server/20201007_network.md)
+  - [3. DBMS에 대하여](https://github.com/sangm1n/TIL/blob/main/Server/20201014_dbms.md)
+  - [4. API에 대하여](https://github.com/sangm1n/TIL/blob/main/Server/20201021_api.md)
+  - [5. 로그인 인증에 대하여](https://github.com/sangm1n/TIL/blob/main/Server/20201028_authentication.md)
+
 ### Spring
 - *스프링 입문*
 
@@ -42,7 +51,7 @@
 ### Git
 - *git과 github*
 
-  - [1. what is git ?](https://github.com/sangm1n/TIL/blob/main/Git/20210101_git.md)
+  - [1. git이란 ?](https://github.com/sangm1n/TIL/blob/main/Git/20210101_git.md)
   - [2. branch 나누기](https://github.com/sangm1n/TIL/blob/main/Git/20210101_branch.md)
   - [3. merge로 병합하기](https://github.com/sangm1n/TIL/blob/main/Git/20210101_merge.md)
   - [4. conflict 해결하기](https://github.com/sangm1n/TIL/blob/main/Git/20210101_conflict.md)
@@ -59,4 +68,4 @@
   - [NPM 설치하기](https://github.com/sangm1n/TIL/blob/main/AWS/20210114_start-AWS.md)
   - [외부 접속하기](https://github.com/sangm1n/TIL/blob/main/AWS/20210115_connect-AWS.md)
 
-- [S3란 무엇인가](https://github.com/sangm1n/TIL/blob/main/AWS/20210128_what-is-S3.md)
+- [S3란 무엇인가 ?](https://github.com/sangm1n/TIL/blob/main/AWS/20210128_what-is-S3.md)
