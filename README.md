@@ -30,6 +30,12 @@
   - [etc - 소수 판별 / 투 포인터](https://github.com/sangm1n/TIL/blob/main/Algorithm/20201226_etc-algorithm-1.md)
   - [etc - 구간 합 / 순열과 조합](https://github.com/sangm1n/TIL/blob/main/Algorithm/20201227_etc-algorithm-2.md)
 
+### Java
+- *백기선 온라인 스터디*
+
+  - [1. JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가](https://github.com/sangm1n/TIL/blob/main/Java/20210222_jvm.md)
+  - [2. 자바 데이터 타입, 변수 그리고 배열](https://github.com/sangm1n/TIL/blob/main/Java/20210223_data-type.md)
+
 ### Server
 - *소프트스퀘어드 10기 서버 수업*
 
