@@ -75,3 +75,33 @@
   - [외부 접속하기](https://github.com/sangm1n/TIL/blob/main/AWS/20210115_connect-AWS.md)
 
 - [S3란 무엇인가 ?](https://github.com/sangm1n/TIL/blob/main/AWS/20210128_what-is-S3.md)
+
+### 정보처리기사
+- *필기*
+
+  - 1과목
+    - [1장. 요구사항 확인](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210222_1-1-requirements.md)
+    - [2장. 화면 설계](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210222_1-2-ui.md)
+    - [3장. 애플리케이션 설계](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210223_1-3-application.md)
+    - [4장. 인터페이스 설계](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210223_1-4-interface.md)
+  - 2과목
+    - [1장. 데이터 입출력 구현](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210224_2-1-data-io.md)
+    - [2장. 통합 구현](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210224_2-2-integration.md)
+    - [3장. 제품 소프트웨어 패키징](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210225_2-3-software-packaging.md)
+    - [4장. 애플리케이션 테스트 관리](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210225_2-4-application-test.md)
+    - [5장. 인터페이스 구현](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210226_2-5-interface.md)
+  - 3과목
+    - [1장. 논리 데이터베이스 설계](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210227-3-1-logical-db.md)
+    - [2장. 물리 데이터베이스 설계](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210227-3-2-physical-db.md)
+    - [3장. SQL 응용](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210227-3-3-sql.md)
+    - [4장. SQL 활용](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210228-3-4-using-sql.md)
+    - [5장. 데이터 전환](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210228-3-5-etl.md)
+  - 4과목
+    - [1장. 서버 프로그램 구현](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210302-4-1-server-program.md)
+    - [2장. 프로그래밍 언어 활용](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210302-4-2-language.md)
+    - [3장. 응용 SW 기초 기술 활용](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210303-4-3-application-sw.md)
+  - 5과목
+    - [1장. 소프트웨어 개발 방법론 활용](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210304-5-1-development-methodology.md)
+    - [2장. IT 프로젝트 정보시스템 구축 관리](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210304-5-2-build-management.md)
+    - [3장. 소프트웨어 개발 보안 구축](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210304-5-3-development-secure.md)
+    - [4장. 시스템 보안 구축](https://github.com/sangm1n/TIL/tree/main/Etc/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/20210305-5-4-system-secure.md)
