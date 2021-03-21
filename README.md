@@ -36,6 +36,10 @@
   - [1. JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가](https://github.com/sangm1n/TIL/blob/main/Java/20210222_jvm.md)
   - [2. 자바 데이터 타입, 변수 그리고 배열](https://github.com/sangm1n/TIL/blob/main/Java/20210223_data-type.md)
 
+- *자바 객체 지향의 원리와 이해*
+
+  - [1. 자바와 절차적/구조적 프로그래밍](https://github.com/sangm1n/TIL/blob/main/Java/20210315_procedure-structured.md)
+
 ### Server
 - *소프트스퀘어드 10기 서버 수업*
 
