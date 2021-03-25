@@ -39,6 +39,11 @@
 - *자바 객체 지향의 원리와 이해*
 
   - [1. 자바와 절차적/구조적 프로그래밍](https://github.com/sangm1n/TIL/blob/main/Java/20210315_procedure-structured.md)
+  - [2. 자바와 객체지향](https://github.com/sangm1n/TIL/blob/main/Java)
+    - [1) 추상화](https://github.com/sangm1n/TIL/blob/main/Java/20210322_abstraction.md)
+    - [2) 상속](https://github.com/sangm1n/TIL/blob/main/Java/20210322_inheritance.md)
+    - [3) 다형성](https://github.com/sangm1n/TIL/blob/main/Java/20210323_polymorphism.md)
+    - [4) 캡슐화](https://github.com/sangm1n/TIL/blob/main/Java/20210324_encapsulation.md)
 
 ### Server
 - *소프트스퀘어드 10기 서버 수업*
