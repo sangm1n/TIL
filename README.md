@@ -19,7 +19,7 @@
 ### Operating System
 - *KOCW 운영체제 강의 (반효경 교수님)*
 
-  - [운영체제란 무엇인가](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210326_os_introduction.md)
+  - [운영체제란 무엇인가](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210326_os-introduction.md)
   - [컴퓨터 시스템 구조](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210330_system-structure.md)
   - [프로세스의 개념](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210331_process.md)
   - [프로세스 관리](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210401_process-management.md)
