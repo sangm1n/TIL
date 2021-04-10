@@ -16,6 +16,17 @@
 - 때때로 **[블로그](https://sangminlog.tistory.com/)** 와 병행 기록
 
 ## :open_file_folder: Category
+### Operating System
+- *KOCW 운영체제 강의 (반효경 교수님)*
+
+  - [운영체제란 무엇인가](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210326_os_introduction.md)
+  - [컴퓨터 시스템 구조](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210330_system-structure.md)
+  - [프로세스의 개념](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210331_process.md)
+  - [프로세스 관리](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210401_process-management.md)
+  - [CPU 스케줄링](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210402_cpu-scheduling.md)
+  - [프로세스 동기화](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210404_process-synchronization.md)
+  - [교착상태 (Deadlock)](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210405_deadlock.md)
+
 ### Algorithm
 - *이것이 취업을 위한 코딩테스트다*
 
