@@ -28,7 +28,7 @@
   - [교착상태 (Deadlock)](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210405_deadlock.md)
   - [메모리 관리](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210409_memory-management.md)
   - [가상메모리](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210410_virtual-memory.md)
-  - [파일 시스템](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210412-file-system.md)
+  - [파일 시스템](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210412_file-system.md)
   - [파일 시스템 구현](https://github.com/sangm1n/TIL/blob/main/Operating%20System/20210415_file-system-implementation.md)
 
 ### Algorithm
