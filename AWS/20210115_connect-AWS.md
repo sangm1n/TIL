@@ -1,10 +1,3 @@
----
-title: ［서버 / Server］ AWS를 이용한 서버 구축 (2) 외부 접속
-tags: ['Server', 'AWS', 'Nginx', 'PHP', 'MySQL']
-categories: ['Server']
-date: 2020-10-03
----
-
 ## Situation
 현재 `AWS` 클라우드 서비스에 서버를 구축해놨다.
 | Server Program | Back-end Language | DBMS (+DB) |
