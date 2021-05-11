@@ -65,6 +65,9 @@
     - [3) 다형성](https://github.com/sangm1n/TIL/blob/main/Java/20210323_polymorphism.md)
     - [4) 캡슐화](https://github.com/sangm1n/TIL/blob/main/Java/20210324_encapsulation.md)
 
+### Python
+- [파이썬 내장 라이브러리](https://github.com/sangm1n/TIL/blob/main/Python/20210113_basic-of-python.md)
+
 ### Server
 - *소프트스퀘어드 10기 서버 수업*
 
